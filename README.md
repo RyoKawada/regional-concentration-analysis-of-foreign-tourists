@@ -8,6 +8,7 @@ https://www.mlit.go.jp/kankocho/tokei_hakusyo/shukuhakutokei.html
 ## Foreign Tourist Ratio by Prefecture (Top 10, 2025)
 ![Foreign Tourist Ratio by Prefecture (Top 10, 2025)](Foreign_Tourist Ratio_by_Prefecture.png)
 
+
 This figure shows the share of foreign tourists in total overnight stays by prefecture in 2025 (top 10).
 
 Tokyo and Kyoto record the highest ratios at around 55%, followed by Osaka at over 40%. 
