@@ -6,7 +6,7 @@ Data Source: Japan Tourism Agency（観光庁）Accommodation Travel Statistics�
 https://www.mlit.go.jp/kankocho/tokei_hakusyo/shukuhakutokei.html
 
 ## Foreign Tourist Ratio by Prefecture (Top 10, 2025)
-![Foreign Tourist Ratio by Prefecture (Top 10, 2025)](Foreign_Tourist Ratio_by_Prefecture.png)
+![Foreign Tourist Ratio by Prefecture (Top 10, 2025)](images/foreign_ratio.png)
 
 
 This figure shows the share of foreign tourists in total overnight stays by prefecture in 2025 (top 10).
